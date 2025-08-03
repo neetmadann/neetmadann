@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Neet |Data Scientist| Business Intelligence <img src="https://komarev.com/ghpvc/?username=neetmadann&color=e91e63" alt="Visitor Badge" />
+# 👋 Hi, I'm Neet  <img src="https://komarev.com/ghpvc/?username=neetmadann&color=e91e63" alt="Visitor Badge" />
+### 🧠 Data Scientist | 💡 Business Intelligence | 🎨 Visual Designer
 ![Python](https://img.shields.io/badge/Python-e91e63?labelColor=000000&logo=Python&logoColor=e91e63)
 ![SQL](https://img.shields.io/badge/SQL-e91e63?labelColor=000000&logo=MySQL&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-e91e63?labelColor=000000&logo=Power-BI&logoColor=e91e63)
