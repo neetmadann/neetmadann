@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Neet
+# 👋 Hi, I'm Neet <img src="https://komarev.com/ghpvc/?username=neetmadann&color=1DA1F2" alt="Visitor Badge" />
 
-I'm a Data Scientist with a background in Business Intelligence.  
-I believe in finding the simplest solution between data science and business intelligence 
+<div align="center">
+  <!-- Top row: Languages and GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetmadann&layout=compact&theme=default" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neetmadann&show_icons=true&theme=default" width="300" alt="GitHub Stats" />
+</div>
 
----
+<br/>
 
-## 🛠️ My Toolbox
-
-- Python, R, SQL, DAX  
-- SVG, Deneb, learning D3.js
-
----
-
-## 📦 Most Used Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neetmadann&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neetmadann&layout=compact&theme=tokyonight)
+<div align="center">
+  <!-- Bottom row: Contribution Graph with grey background -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neetmadann&theme=graywhite" width="620" alt="Contribution Graph" />
+</div>
