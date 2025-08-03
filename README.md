@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neet
 
 I'm a Data Scientist with a background in Business Intelligence.  
-I love turning data into insights and dashboards into stories.
+I believe in finding the simplest solution between data science and business intelligence 
 
 ---
 
