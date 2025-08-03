@@ -1,20 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Neet
 
-<!--
-**neetmadann/neetmadann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with a background in Business Intelligence.  
+I love turning data into insights and dashboards into stories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on PowerBI Deneb and SVG Custom Visuals
-- 🌱 I’m currently learning D3 and Javascript
-- 👯 I’m looking to collaborate on Power BI and Python ML 
-- 🤔 I’m looking for help with: D3
-- 💬 Ask me about Power BI, DAX and Custom visuals
-- 📫 How to reach me: https://www.linkedin.com/in/neetmadan/
-- ⚡ Fun fact: ...
+## 🛠️ My Toolbox
+
+- Python, R, SQL, DAX  
+- SVG, Deneb, learning D3.js
+
+---
+
+## 📦 Most Used Languages
 
 ```python
-# Python code to list most-used languages via GitHub API
+# Python: List your most-used languages via GitHub API
 from github import Github
 
 g = Github("YOUR_GITHUB_TOKEN")
@@ -25,3 +26,8 @@ for repo in user.get_repos():
         lang_count[lang] = lang_count.get(lang, 0) + count
 print(sorted(lang_count.items(), key=lambda x: x[1], reverse=True))
 ```
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neetmadann&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neetmadann&layout=compact&theme=tokyonight)
