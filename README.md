@@ -10,6 +10,7 @@
 
 
 <a href="https://github.com/neetmadann">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=neetmadann&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,2a5298,c471ed,f06292,CCFF00&theme=graywhite" />
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetmadann&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,2a5298,c471ed,f06292,CCFF00&theme=graywhite" />
-
+  <img height="137px" 
+    src="https://github-readme-stats.vercel.app/api?username=neetmadann&show_icons=true&include_all_commits=true&count_private=true&text_color=ffffff&icon_color=ffffff&title_color=ffffff&custom_title=Neet's%20Stats&bg_color=0,2a5298,c471ed,f06292,CCFF00&hide_border=true" />
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetmadann&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,2a5298,c471ed,f06292,CCFF00" />
+</a>
